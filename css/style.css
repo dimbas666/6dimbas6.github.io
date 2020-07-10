@@ -8,7 +8,6 @@
     margin-top: 400px;
  }
 
-.page {
-    background: url(img/image-castle-web.jpg) no-repeat;
-    background-size: cover; 
- }
+#EnterTheCastle .page {
+    background: url(img/image-castle-web2.jpg) no-repeat;
+    }   

@@ -1,4 +1,4 @@
-  body {
+ body {
     background: black;
  }
 
@@ -9,10 +9,10 @@
  }
 
 
-#EnterTheCastle .page {
+#begin .page {
     background: url(img/image-castle-web2.jpg) no-repeat;
     }   
 
-#run .page {
+#поел .page {
     background: url(img/image-castle-web.jpg) no-repeat;
     }   

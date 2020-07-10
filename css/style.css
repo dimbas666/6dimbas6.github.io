@@ -1,0 +1,14 @@
+ body {
+    background: black;
+ }
+
+ .text {
+    background: beige;
+    padding: 12px;
+    margin-top: 400px;
+ }
+
+.page {
+    background: url(img/image-castle-web.jpg) no-repeat;
+    background-size: cover; 
+ }

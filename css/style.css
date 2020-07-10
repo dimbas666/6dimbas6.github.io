@@ -1,12 +1,7 @@
- body {
+  body {
     background: black;
  }
 
- .text {
-    background: beige;
-    padding: 12px;
-    margin-top: 400px;
- }
 
 #EnterTheCastle .page {
     background: url(img/image-castle-web2.jpg) no-repeat;
